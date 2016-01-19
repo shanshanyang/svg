@@ -58,7 +58,6 @@ Supported across all Modern Browsers
 - `<!-- Fully URL encoded ASCII -->`
 
 ## How is SVG rendered in browser
-http://opticalcortex.com/svg-rendering-in-browsers/
 
 ## SVG animation
 
@@ -66,9 +65,10 @@ http://opticalcortex.com/svg-rendering-in-browsers/
 ## Performance impact of SVG
 
 ## SVG optimization
+
 tools: 
+
 - https://github.com/svg/svgo
-- 
 
 ## Accessibility of SVG
 SVGs are accessible; text and drawing elements are machine-readable so screen readers can other devices can parse the images.
@@ -76,6 +76,7 @@ SVGs are accessible; text and drawing elements are machine-readable so screen re
 ## Automation to create a svg or svg sprite
 
 ## Resources to learn about SVG
+
 - https://www.w3.org/Graphics/SVG/IG/resources/svgprimer.html
-- 
+- https://en.wikipedia.org/wiki/Scalable_Vector_Graphics
 
