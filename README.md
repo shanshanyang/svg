@@ -34,9 +34,10 @@ http://codepen.io/andreayang/pen/zrEzpe
 
 `<svg>...</svg>` in markup
 
-- SVG in <object>
+- SVG as object data
 
 `<object type="image/svg+xml" data="forkme.svg" class="banner">..</object>`
+
 
 ## Pro & Cons of these methods
 'inline svg' advantages
