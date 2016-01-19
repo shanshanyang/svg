@@ -193,7 +193,9 @@ http://www.creativebloq.com/web-design/icon-fonts-vs-svg-101413211
 - https://sarasoueidan.com/
 - https://css-tricks.com/guide-svg-animations-smil/
 - VML: https://www.w3.org/TR/NOTE-VML
+- https://www.w3.org/Graphics/SVG/
 
 ## Follow them for more SVG stuff
 Sara Soueidan @SaraSoueidan
+Sarah Drasner: https://css-tricks.com/author/sdrasner/
 
