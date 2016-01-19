@@ -36,7 +36,7 @@ http://codepen.io/andreayang/pen/zrEzpe
 Note: gzip and cache the document.
 
 ## Browser Support
-Supported across all Mordern Browsers
+Supported across all Modern Browsers
 
 - Image tag: http://caniuse.com/#feat=svg-img
 - Background Image: http://caniuse.com/#feat=svg-css
@@ -58,7 +58,7 @@ Supported across all Mordern Browsers
 - `<!-- Fully URL encoded ASCII -->`
 
 ## How is SVG rendered in browser
-
+http://opticalcortex.com/svg-rendering-in-browsers/
 
 ## SVG animation
 
